@@ -1,0 +1,29 @@
+.T1{
+    display: flex;
+    flex-direction: row;
+}
+h5{
+    font-size: x-large;
+}
+button{
+    background-color: blue;
+    color: #FFF;
+    border-radius: 8px;
+    width: 3rem;
+}
+*{
+    background-color: #FFF;
+}
+footer{
+    background-color: #f67D32;
+    width: 100%;
+    height: 8rem;
+}
+H3, marquee{
+    
+    background-color: #f67D32;
+}
+span{
+    background-color: #f67D32;
+    color: red;
+}
